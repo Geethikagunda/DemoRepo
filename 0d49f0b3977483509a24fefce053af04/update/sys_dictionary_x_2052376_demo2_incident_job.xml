@@ -48,6 +48,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-05-18 16:30:00</sys_created_on>
+        <sys_id>c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>job</sys_name>
         <sys_package display_value="demo2" source="x_2052376_demo2">0d49f0b3977483509a24fefce053af04</sys_package>
         <sys_policy/>
